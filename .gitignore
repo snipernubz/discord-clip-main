@@ -1,0 +1,8 @@
+config.json
+tempfiles/
+.vscode/
+discordclips-env/*
+.venv
+*.webm
+*.gif
+*.png
